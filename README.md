@@ -8,7 +8,7 @@ To ensure that the python script is running continuously, the [supervisor](http:
 
 Resistor R2 is optional, though it's recommended to increase stability.
 
-# Installation
+# Automatic installation (only debian based distros)
 1. Clone this repository to some directory on the raspberry pi `git clone https://github.com/strange-v/rpi-fan-pwm`
 1. Go to the cloned repo `cd ./rpi-fan-pwm`
 1. Add execute permission for the installation script `chmod +x ./install.sh`
